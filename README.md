@@ -3,10 +3,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kazu-1024&show_icons=true&theme=calm" width="49.5%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazu-1024&layout=compact&theme=calm" width="49.5%" />
-</p>
-
 <!--
 **Kazu-1024/Kazu-1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
